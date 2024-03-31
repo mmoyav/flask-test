@@ -63,4 +63,3 @@
 34. [Despliegue de aplicación flask en hosting pythonanywhere](curso/u34)
 35. [Despliegue de aplicación flask en un PaaS Heroku](curso/u35)
 36. [Despliegue de aplicación flask en un contenedor docker](curso/u36)
-# flask-test
